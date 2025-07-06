@@ -8,9 +8,9 @@ export const Bio = {
     "https://drive.google.com/file/d/1uThGZ_C27Ys1KStWNkabYCHO9iPYEtWQ/view?usp=drive_link",
   linkedin:
     "https://www.linkedin.com/in/diya-tripathi-%F0%9F%9A%80%F0%9F%8C%90-b26884262/",
-  // twitter: "https://twitter.com/RishavChanda",
-  insta: "https://www.instagram.com/rishav_chanda/",
-  facebook: "https://www.facebook.com/rishav.chanda.165/",
+  // twitter: "https://twitter.com/Diya Tripathi",
+  insta: "https://www.instagram.com/Diya_chanda/",
+  facebook: "https://www.facebook.com/Diya.chanda.165/",
 };
 
 export const skills = [
@@ -162,16 +162,6 @@ export const skills = [
         image:
           "https://camo.githubusercontent.com/93b32389bf746009ca2370de7fe06c3b5146f4c99d99df65994f9ced0ba41685/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667",
       },
-      {
-        name: "Adobe XD",
-        image:
-          "https://camo.githubusercontent.com/c205ecbe12500177d102169d97bc1c17c545155fdf5ec78c08d54ac53e5b38c1/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f61646f62652d78642e737667",
-      },
-      {
-        name: "Figma",
-        image:
-          "https://camo.githubusercontent.com/ed93c2b000a76ceaad1503e7eb9356591b885227e82a36a005b9d3498b303ba5/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6669676d612f6669676d612d69636f6e2e737667",
-      },
     ],
   },
 ];
@@ -179,7 +169,6 @@ export const skills = [
 export const experiences = [
   {
     id: 0,
-    img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/neurobit.jpeg?alt=media&token=1cacbb7b-e5ea-4efb-9b3d-f5a31b9564ad",
     role: " React.js / Next.js Developer Intern",
     company: " Cling Multi Solution Pvt. Ltd",
     date: " April/2024 - june/2024 ",
@@ -193,22 +182,19 @@ export const experiences = [
       "CSS",
       "JavaScript",
     ],
-    doc: "https://firebasestorage.googleapis.com/v0/b/buckoid-917cf.appspot.com/o/Screenshot%20from%202023-05-28%2023-20-46.png?alt=media&token=5570f995-e8f4-4f12-bb2f-73bcf4b20730",
   },
   {
     id: 1,
-    img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/flipr.jpeg?alt=media&token=1d72532a-45eb-4c1a-a81a-c9bed9fec543",
     role: " React.js Developer Intern",
     company: " CCATechno Pvt. Ltd",
     date: "July 2024 - August 2024",
     desc: " Designed, developed, and maintained healthcare software for Hospitals Worked on frontend and API for Account, HMS, Lab, and Pharmacy module",
     skills: ["JavaScript", "TypeScript", "Node Js", " Next Js", "Material UI"],
-    doc: "https://media.licdn.com/dms/image/D4D2DAQFlp60ZqHuaFQ/profile-treasury-image-shrink_1280_1280/0/1691180828512?e=1692381600&v=beta&t=mM5Y_NE5EPlQhez5FAN6NLVSKcO_Ojt_9Gq3mnFGkAQ",
+    // doc: "https://media.licdn.com/dms/image/D4D2DAQFlp60ZqHuaFQ/profile-treasury-image-shrink_1280_1280/0/1691180828512?e=1692381600&v=beta&t=mM5Y_NE5EPlQhez5FAN6NLVSKcO_Ojt_9Gq3mnFGkAQ",
   },
 
   {
     id: 2,
-    img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/flipr.jpeg?alt=media&token=1d72532a-45eb-4c1a-a81a-c9bed9fec543",
     role: " Web Developer Intern",
     company: " Webstic IT Services",
     date: "Feb 2024 - June 2024",
@@ -256,7 +242,7 @@ export const projects = [
     description:
       "• Created a utility-first, customizable UI framework using SCSS, Vite, & Next.js.",
     image:
-      "https://user-images.githubusercontent.com/64485885/255202416-e1f89b04-2788-45b0-abc2-9dec616669e2.png",
+      "  https://github.com/diyatripathi673/my-images/blob/main/Phoenix%20.jpg?raw=true",
     tags: ["React Js", "CSS", "Next js", "JavaScript"],
     category: "web app",
     github: "https://github.com/diyatripathi673/PHOENIX_",
@@ -264,13 +250,13 @@ export const projects = [
     member: [
       {
         name: "Diya Tripathi",
-        img: "https://avatars.githubusercontent.com/u/64485885?v=4",
-        linkedin: "https://www.linkedin.com/in/rishav-chanda-b89a791b3/",
+        img: "",
+        linkedin: "https://www.linkedin.com/in/Diya-chanda-b89a791b3/",
         github: "https://github.com/diyatripathi673/",
       },
       {
         name: "Mahima Bisht",
-        img: "https://avatars.githubusercontent.com/u/100614635?v=4",
+        img: "",
         linkedin: "https://www.linkedin.com/in/upasana-chaudhuri-2a2bb5231/",
         github: "https://github.com/upasana0710",
       },
@@ -283,7 +269,7 @@ export const projects = [
     description:
       " Developed a React app for video upload, login, and playback with clean UI.",
     image:
-      "https://user-images.githubusercontent.com/64485885/234602896-a1bd8bcc-b72b-4821-83d6-8ad885bf435e.png",
+      "https://github.com/diyatripathi673/my-images/blob/main/VideoHub.png?raw=true",
     tags: ["React Js", "MongoDb", "Node Js", "Express Js", "Redux"],
     category: "web app",
     github: "https://github.com/diyatripathi673/Vedio_Hub",
@@ -294,9 +280,9 @@ export const projects = [
     title: "CRUD Operation Web App",
     date: "Oct 2022 - Present",
     description:
-      "Designed and developed the Vexa project, a project management app that helps users and teams stay organized and on track. Implemented key features such as task tracking, team collaboration, and time tracking to improve productivity and project outcomes and also invite team/project members. The plan is to add a community of users where they can find developers and other team members and chat system implementation.",
+      "CRUD Operation Web App lets users Create, Read, Update, and Delete data easily through a simple and interactive interface.",
     image:
-      "https://user-images.githubusercontent.com/64485885/234916413-96296f13-fe4b-4cc4-b215-e72bd7c27928.png",
+      "https://github.com/diyatripathi673/my-images/blob/main/Crud_app.png?raw=true",
     tags: [
       "React Js",
       "MongoDb",
